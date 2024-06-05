@@ -1,0 +1,25 @@
+.navbar {
+  border: solid;
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  color: brown;
+}
+a {
+  margin-left: 50px;
+  font-size: 30px;
+}
+
+input {
+  color: black;
+  margin-left: 150px;
+}
+#hej {
+  height: 50px;
+}
+
+#bedømmelse {
+  font-size: 150px;
+}
