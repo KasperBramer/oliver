@@ -1,25 +1,9 @@
-.navbar {
-  border: solid;
-  display: flex;
-  align-items: center;
+.velkommen {
+  margin-top: 0px;
+  display: block;
 }
 
-h2 {
-  color: brown;
-}
-a {
-  margin-left: 50px;
-  font-size: 30px;
-}
-
-input {
-  color: black;
-  margin-left: 150px;
-}
-#hej {
-  height: 50px;
-}
-
-#bedømmelse {
-  font-size: 150px;
+.matematikunivers {
+  margin-bottom: 5px;
+  display: inline-block;
 }
